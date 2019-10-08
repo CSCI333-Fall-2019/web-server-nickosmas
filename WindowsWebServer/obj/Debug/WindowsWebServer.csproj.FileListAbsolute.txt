@@ -1,0 +1,10 @@
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\bin\Debug\WindowsWebServer.exe.config
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\bin\Debug\WindowsWebServer.exe
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\bin\Debug\WindowsWebServer.pdb
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.csprojAssemblyReference.cache
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.Form1.resources
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.Properties.Resources.resources
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.csproj.GenerateResource.cache
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.csproj.CoreCompileInputs.cache
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.exe
+C:\Users\nicok\source\repos\CSCI333\WindowsWebServer\WindowsWebServer\obj\Debug\WindowsWebServer.pdb
