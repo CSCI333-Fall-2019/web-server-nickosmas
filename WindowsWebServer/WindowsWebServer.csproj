@@ -46,9 +46,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="..\..\..\..\..\OneDrive\Desktop\Networking\web-server-nickosmas\WindowsWebServer.cs">
-      <SubType>Form</SubType>
-    </Compile>
+    <Compile Include="..\..\..\..\..\OneDrive\Desktop\Networking\web-server-nickosmas\WindowsWebServer.cs" />
     <Compile Include="..\..\..\..\..\OneDrive\Desktop\Networking\web-server-nickosmas\WindowsWebServer.Designer.cs">
       <DependentUpon>WindowsWebServer.cs</DependentUpon>
     </Compile>
